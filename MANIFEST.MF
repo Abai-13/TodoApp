@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.todoapp.Main
+Class-Path: lib/gson-2.14.0.jar lib/flatlaf-3.7.1.jar
+
